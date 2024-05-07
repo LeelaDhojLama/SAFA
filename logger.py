@@ -5,7 +5,7 @@ import imageio
 
 import os
 import cv2
-from skimage.draw import ellipse as cricle
+from skimage.draw import ellipse as circle
 
 import matplotlib.pyplot as plt
 import collections
